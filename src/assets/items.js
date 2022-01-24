@@ -56,7 +56,7 @@ const items = [{
     "subtitle": "@kri14 | Se hai bisogno subito usa questo o whatsapp ",
     "image": telegram,
     "link": "https://telegram.me/kri14" //Telegram Pofile 
-}
+},
 {
     "title": "Whatsapp",
     "subtitle": "Profilo business",
