@@ -19,7 +19,7 @@ const items = [{
     "title": "Il mio blog",
     "subtitle": "Vieni a commentare!",
     "image": website,
-    "link": "https://blog.kristianburiascophotos.gq" //your personal website or portfolio  link
+    "link": "http://blog.kristianburiascophotos.gq" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
